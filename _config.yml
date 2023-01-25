@@ -1,0 +1,4 @@
+coursename: "CS 201"
+baseurl: "/cs201-spring2023"
+markdown: kramdown
+highlighter: rouge
