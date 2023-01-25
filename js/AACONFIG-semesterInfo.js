@@ -10,6 +10,6 @@ var semesterInfo = {
     // For single-day breaks, the startDate and endDate are the same.
     vacationDates: [
         new VacationDays("Winter Vacation",    new Date("03/09/2023"), new Date("03/12/2023")),
-        new VacationDays("Spring Break",       new Date("03/07/2023"), new Date("03/10/2023")),
+        new VacationDays("Spring Break",       new Date("04/07/2023"), new Date("04/10/2023")),
      ]
 };
