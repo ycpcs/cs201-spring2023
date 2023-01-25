@@ -3,7 +3,7 @@ layout: default
 title: Home page
 ---
 
-# CS 201, Fall 2022
+# CS 201, Spring 2023
 
 <div id="subtitle">Fundamentals of Computer Science II</div>
 

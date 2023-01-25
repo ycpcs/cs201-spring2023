@@ -7,16 +7,16 @@ title: "Syllabus"
 
 <div id="subtitle">Fundamentals of Computer Science II</div>
 
-**Fall 2022**
+**Spring 2023**
 
-Instructors: 
+Instructor: 
 - 102 & 103 - Dr. Krishna Kambhampaty, <kkambhampaty@ycp.edu>
 
 
 Office Hours:
-- **Dr. Kambhampaty** - KEC 115: Thu 9:30 am-2:30 pm, or by appointment
--
 
+
+- **Dr. Kambhampaty** - KEC 115: Thu 9:30 am-2:30 pm, or by appointment
 
  Section  |  Section Time |  Room      | Final Exam Date and Time
  -------- | ------------| ---------- | ------- | ----------
@@ -95,7 +95,7 @@ Your overall grade for the course will be determined as follows:
 
 ### Course website
 
-Please check the [course web page](https://ycpcs.github.io/cs201-fall2022-102), regularly for important announcements.
+Please check the [course web page](https://ycpcs.github.io/cs201-spring2023), regularly for important announcements.
 
 ### Reading Assignments
 
@@ -107,7 +107,7 @@ You **must** make a legitimate attempt to complete every homework assignment. We
 
 ### Posting and submission of assignments and labs
 
-Assignments and labs will be posted as zip files on the [course web page](https://ycpcs.github.io/cs201-fall2022-102).
+Assignments and labs will be posted as zip files on the [course web page](https://ycpcs.github.io/cs201-spring2023).
 
 Assignments and labs will be submitted using the [Marmoset server](https://cs.ycp.edu/marmoset). If you do not already have an account, you will receive an email containing the username and password for this server.
 
