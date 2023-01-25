@@ -10,7 +10,7 @@ Assignments are due by 11:59 PM on the due date, although I will **NOT** assess 
 **All assignment submissions MUST be done using the IntelliJ Terminal** (see [Resources](../resources/index.html) for installation instructions).
 
 > Assignment | File | Due
-> ---------- | ---- | ---
+> ---------- | ---- | ----
 
 
 <!--

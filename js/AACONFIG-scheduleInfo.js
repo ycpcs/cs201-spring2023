@@ -58,7 +58,7 @@ courseInfo.classPeriods = [
  		topic: new Topic("** Exam 1", "")
  	},
 	
-	/* Block Comment
+ // Block Comment
 	{
  		topic: new DoubleTopic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture09.html", "CS201_Lecture09_Gradle.zip","examples/CS201_Lecture09_Gradle.zip"),
  		lab: new NumberedLabGradle(9, "Comparable, Sorting")
@@ -165,7 +165,6 @@ courseInfo.classPeriods = [
 //	},
 ];
 
- */
 
 // The following is for the college-scheduled final exam.
 // It is not used if final is on last day of class"

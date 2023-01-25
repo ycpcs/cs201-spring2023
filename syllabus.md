@@ -10,13 +10,17 @@ title: "Syllabus"
 **Spring 2023**
 
 Instructor: 
+
 - 102 & 103 - Dr. Krishna Kambhampaty, <kkambhampaty@ycp.edu>
 
 
 Office Hours:
 
 
-- **Dr. Kambhampaty** - KEC 115: Thu 9:30 am-2:30 pm, or by appointment
+Section  |  Instructor |  Room      |  Date and Time
+ -------- | ------------| ---------- | ------- | ----------
+102 & 103 | Dr. Kambhampaty | KEC 115 | Thu 9:30 am-2:30 pm, or by appointment
+          
 
  Section  |  Section Time |  Room      | Final Exam Date and Time
  -------- | ------------| ---------- | ------- | ----------
