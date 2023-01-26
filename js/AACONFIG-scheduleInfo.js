@@ -7,10 +7,6 @@ courseInfo.classPeriods = [
 		
 	},
 	{
-		topic: new Topic("Lecture 0: Introduction to Java & Installing IntelliJ..continued", "")
-		
-	},
-	{
 		topic: new DoubleTopic("Lecture 1: Introduction, Primitive Java", "lectures/lecture01.html","CS201_Lecture01_Gradle.zip", "examples/CS201_Lecture01_Gradle.zip"),
 		reading: "1.1&ndash;1.6",
 		lab: new NumberedLabGradle(1, "Dog Years")
@@ -128,17 +124,16 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(20, "Word Count")
  	},
 	{
+		topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
+ 		reading: "7.1, 7.3",
+ 		lab: new NumberedLabGradle(21, "Recursion")
+ 	},
+	{
  		topic: new Topic("Exam 3 Review", "")
  	},
 	{
  		topic: new Topic("** Exam 3", "")
  	},
-	
- 	// {
- 		// topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
- 		// reading: "7.1, 7.3",
- 		// lab: new NumberedLabGradle(21, "Recursion")
- 	// },
  	// {
  		// topic: new Topic("Lecture 22: Proof by Induction", "lectures/lecture22.html"),
  		// reading: "7.2",
@@ -174,8 +169,8 @@ courseInfo.classPeriods = [
 // It is not used if final is on last day of class"
 courseInfo.finalExamDates = [
 
-//		new FinalExamDay("102", new Date("12/09/2022 12:45:00")),
-//		new FinalExamDay("103", new Date("12/08/2022 12:45:00")),
+		new FinalExamDay("102", new Date("05/09/2023 10:15:00")),
+		new FinalExamDay("103", new Date("05/09/2023 12:45:00")),
 //		new FinalExamDay("104", new Date("12/13/2019 15:00:00"))
 ];
 
