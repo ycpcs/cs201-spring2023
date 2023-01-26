@@ -78,9 +78,6 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(12, "Functors")
  	},
 	{
- 		topic: new Topic("Exam 1 Solution and Analysis", "")
- 	},
- 	{
  		topic: new DoubleTopic("Lecture 13: Analysis of Algorithms", "lectures/lecture13.html", "Lecture 14: Big-O", "lectures/lecture14.html"),
  		reading: "5.1&ndash;5.3",
  		lab: new DoubleNumberedLabGradleNoFile(13, "Benchmarking ArrayList", 14, "Big-O")
@@ -126,9 +123,15 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(19, "Palindromes")
  	},
  	{
- 		topic: new TripleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip", "Exam 3 Review", ""),
+ 		topic: new DoubleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip"),
  		reading: "6.7-6.8",
  		lab: new NumberedLabGradle(20, "Word Count")
+ 	},
+	{
+ 		topic: new Topic("Exam 3 Review", "")
+ 	},
+	{
+ 		topic: new Topic("** Exam 3", "")
  	},
 	
  	// {
@@ -154,11 +157,12 @@ courseInfo.classPeriods = [
 // 	{
 // 		topic: new Topic("Exam 3 Review", "")
 // 	},
- 	{
- 		topic: new TripleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip", "Exam 3 Review", ""),
- 		reading: "6.7-6.8",
- 		lab: new NumberedLabGradle(20, "Word Count")
- 	},
+// 	{
+// 		topic: new TripleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip", "Exam 3 Review", ""),
+// 	 reading: "6.7-6.8",
+// 		lab: new NumberedLabGradle(20, "Word Count")
+//+
+//	},
 //	{
 //		topic: new DoubleTopic("Lecture 24: Relational Databases and SQL", "lectures/lecture24.html", "Lecture 25: Database Applications and JDBC", "lectures/lecture25.html"),
 //		lab: new DoubleNumberedLab(23, "Relational Databases and SQL", 24, "JDBC")
