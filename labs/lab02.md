@@ -44,6 +44,9 @@ The class should provide the following **public** methods:
 5.  **findChange** calculates and returns the value of the leftover change (after the dollars are removed) as an integer. For example, if the coins total $1.37, then this method should return the value 37. **Hint:** Consider using the **findCentsValue** method to get the total value in cents with integer modulo (**%**) to obtain the *remainder*
 
 ## Submitting
+Please submit your .java file in Canvas. Alternatively, you can zip the lab folder and upload in Canvas.
+
+<!--
 
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
@@ -70,3 +73,4 @@ Details:
 
 ######################################################################
 </pre>
+-->

@@ -5,7 +5,7 @@ title: "Lab 7: Inheritance and Polymorphism"
 
 ## Getting Started
 
-Download [CS201\_Lab07\_Gradle.zip](CS201_Lab07_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Lab07\_Gradle.zip](CS201_Lab07_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2023** directory. Import it into your **CS201-Spring2023** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
@@ -37,11 +37,14 @@ In **src/test/java/(default package)** right-click on the appropriate test class
 
 ## Submitting
 
+Please submit your .java file in Canvas. Alternatively, you can zip the lab folder and upload in Canvas.
+
+<!--
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
 $ <b>cd CS201_Lab07_Gradle</b>
-CS201-Spring2022/CS201_Lab07_Gradle
+CS201-SpringSpring2023/CS201_Lab07_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -56,9 +59,10 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Spring Spring2023
          Course:     CS 201
          Assignment: lab07
 
 ######################################################################
 </pre>
+-->

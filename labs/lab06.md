@@ -5,7 +5,7 @@ title: "Lab 6: Exceptions"
 
 ## Getting Started
 
-Download [CS201\_Lab06\_Gradle.zip](CS201_Lab06_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
+Download [CS201\_Lab06\_Gradle.zip](CS201_Lab06_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2023** directory. Import it into your **CS201-Spring2023** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
@@ -66,12 +66,15 @@ Error: nonexistent.txt (No such file or directory)
 Use a **try/catch** block to handle an **IOException** or **FileNotFoundException** that might occur. Print the error message from the catch block. You can call the **getMessage** method on the caught exception object to get a string containing a textual description of the error that caused the exception.
 
 ## Submitting
+Please submit your .java file in Canvas. Alternatively, you can zip the lab folder and upload in Canvas.
+
+<!--
 
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
 $ <b>cd CS201_Lab06_Gradle</b>
-CS201-Fall2022/CS201_Lab06_Gradle
+CS201-Spring2023/CS201_Lab06_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -92,3 +95,4 @@ Details:
 
 ######################################################################
 </pre>
+-->
