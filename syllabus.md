@@ -20,7 +20,7 @@ Office Hours:
 Section  |  Instructor |  Room      |  Date and Time
  -------- | ------------| ---------- | ------- | ----------
 102 & 103 | Dr. Kambhampaty | KEC 115 | Wed 9:30 am-2:30 pm
-|||Fri: 10:30am - 12:00pm on Zoom or by appointment
+||Zoom|Fri: 10:30am - 12:00pm on Zoom or by appointment
 		  |	
 
  Section  |  Section Time |  Room      | Final Exam Date and Time
