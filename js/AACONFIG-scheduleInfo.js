@@ -36,6 +36,10 @@ courseInfo.classPeriods = [
  		reading: "2.5",
  		lab: new NumberedLabGradle(6, "Exceptions")
  	},
+	{
+		topic: new Topic("Lecture 4: Testing", "")
+		
+	},
  	{
  		topic: new DoubleTopic("Lecture 7: Inheritance", "lectures/lecture07.html", "CS201_Lecture07_Gradle.zip","examples/CS201_Lecture07_Gradle.zip"),
  		reading: "4.1&ndash;4.2",
@@ -46,18 +50,16 @@ courseInfo.classPeriods = [
  		reading: "4.3&ndash;4.4",
  		lab: new NumberedLabGradle(8, "Inheriting Fields and Methods")
  	},
+	{
+ 		topic: new DoubleTopic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture09.html", "CS201_Lecture09_Gradle.zip","examples/CS201_Lecture09_Gradle.zip"),
+ 		lab: new NumberedLabGradle(9, "Comparable, Sorting")
+ 	},
  	{
  		topic: new Topic("Exam 1 Review", "")
  	},
 	
  	{
  		topic: new Topic("** Exam 1", "")
- 	},
-	
- // Block Comment
-	{
- 		topic: new DoubleTopic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture09.html", "CS201_Lecture09_Gradle.zip","examples/CS201_Lecture09_Gradle.zip"),
- 		lab: new NumberedLabGradle(9, "Comparable, Sorting")
  	},
 	{
 		topic: new TripleTopic("Lecture 10: GUIs and MVC", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip", "examples/CS201_Lecture10_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
