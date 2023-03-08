@@ -26,6 +26,7 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 
 ## News
 * **Jan 26** &mdash; Welcome back!
+* **Mar 14** &mdash; **Exam 1**
 
 
 
