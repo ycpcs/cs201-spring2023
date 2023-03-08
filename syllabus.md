@@ -21,7 +21,6 @@ Section  |  Instructor |  Room      |  Date and Time
  -------- | ------------| ---------- | ------- | ----------
 102 & 103 | Dr. Kambhampaty | KEC 115 | Wed 10:30 am-1:30 pm; Fri: 10:30am - 12:30pm or by appointment
 
-		  |	
 
  Section  |  Section Time |  Room      | Final Exam Date and Time
  -------- | ------------| ---------- | ------- | ----------
