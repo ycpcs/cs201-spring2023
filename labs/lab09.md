@@ -62,7 +62,9 @@ public void testSort() {
 {% endhighlight %}
 
 ## Submitting
+Please submit your .java file in Canvas. Alternatively, you can zip the lab folder and upload in Canvas.
 
+<!--
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
@@ -88,3 +90,4 @@ Details:
 
 ######################################################################
 </pre>
+-->

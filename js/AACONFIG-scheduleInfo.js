@@ -62,10 +62,6 @@ courseInfo.classPeriods = [
  		topic: new Topic("** Exam 1", "")
  	},
 	{
-		topic: new TripleTopic("Lecture 10: GUIs and MVC", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip", "examples/CS201_Lecture10_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
-		lab: new NumberedLabGradle(10, "Drag and Drop GUI")
-	},
- 	{
  		topic: new TripleTopic("Lecture 11: Generic methods and classes", "lectures/lecture11.html", "CS201_Lecture11_Gradle.zip","examples/CS201_Lecture11_Gradle.zip", "CS201_Lecture11_Gradle_Final.zip","examples/CS201_Lecture11_Gradle_Final.zip"),
  		reading: "4.5&ndash;4.7",
  		lab: new NumberedLabGradle(11, "Using Generic Containers and Algorithms")
@@ -75,6 +71,10 @@ courseInfo.classPeriods = [
  		reading: "4.8",
  		lab: new NumberedLabGradle(12, "Functors")
  	},
+	{
+		topic: new TripleTopic("Lecture 10: GUIs and MVC", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip", "examples/CS201_Lecture10_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
+		lab: new NumberedLabGradle(10, "Drag and Drop GUI")
+	},
 	{
  		topic: new DoubleTopic("Lecture 13: Analysis of Algorithms", "lectures/lecture13.html", "Lecture 14: Big-O", "lectures/lecture14.html"),
  		reading: "5.1&ndash;5.3",

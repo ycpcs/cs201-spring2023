@@ -96,4 +96,4 @@ for (int i = 0; i < N; i++) {
 
 ## Submitting
 
-Upload the text file containing your answers to the [Marmoset server](https://cs.ycp.edu/marmoset) as **lab14**.
+Upload the text file containing your answers to the Canvs as **lab14**.

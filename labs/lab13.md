@@ -96,11 +96,15 @@ Copy your Excel file into the Eclipse project. (Put it in the subdirectory of yo
 
 ## Submitting
 
+Please submit your .java file in Canvas. Alternatively, you can zip the lab folder and upload in Canvas.
+
+<!--
+
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
-$ <b>cd CS201_Lab13_Gradle</b>
-CS201-Fall2022/CS201_Lab13_Gradle
+$ <b>cd CS201_Lab08_Gradle</b>
+CS201-Spring2023/CS201_Lab08_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -117,7 +121,8 @@ Details:
 
          Semester:   Fall 2022
          Course:     CS 201
-         Assignment: lab13
+         Assignment: lab08
 
 ######################################################################
 </pre>
+-->
