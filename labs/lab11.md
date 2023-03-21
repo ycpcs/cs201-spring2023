@@ -5,7 +5,7 @@ title: "Lab 11: Using Generic Containers and Algorithms"
 
 ## Getting Started
 
-Download [CS201\_Lab11\_Gradle.zip](CS201_Lab11_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
+Download [CS201\_Lab11\_Gradle.zip](CS201_Lab11_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2023** directory. Import it into your **CS201-Spring2023** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
@@ -17,9 +17,9 @@ To begin, run the program by right-clicking on the file **StartLab.java** in the
 
 > **Run 'StartLab.main()'**
 
-In the console window, type **yes** when prompted which should copy the source and test files from your [Lab 10](lab10.html).
+In the console window, type **yes** when prompted which should copy the source and test files from your [Lab 09](lab09.html).
 
-In this lab, you will build upon the classes from [Lab 10](lab10.html).
+In this lab, you will build upon the classes from [Lab 09](lab09.html).
 
 **There is no executable application for this lab.** Instead, we will test the modified class implementations by running the unit tests by right-clicking on the file **CardTest.java** and **DeckTest.java** in the **src/test/java/** directory, and then choosing
 
