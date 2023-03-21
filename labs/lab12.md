@@ -5,7 +5,12 @@ title: "Lab 12: Functors"
 
 ## Getting Started
 
-Download [CS201\_Lab12\_Gradle.zip](CS201_Lab12_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
+Lab 12 is optional. However, if you show your work in class and submit the lab in Canvas, you will get bonus points.
+In the class Bubble Sort algorithm was discussed. This algorithm works for integers. For Lab 12, you have to write a generic Bubble Sort algorithm that will accept any number format.
+
+<!--
+
+Download [CS201\_Lab12\_Gradle.zip](CS201_Lab12_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2023** directory. Import it into your **CS201-Spring2023** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
@@ -61,6 +66,7 @@ The **SumIntFunctor** and **CountJFunctor** classes should build up the overall 
 
 ## Submitting
 Please submit your .java file in Canvas. Alternatively, you can zip the lab folder and upload in Canvas.
+-->
 
 <!--
 
