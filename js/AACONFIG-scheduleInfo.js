@@ -72,9 +72,15 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(12, "Functors")
  	},
 	{
+ 		topic: new Topic("Lecture 12: Generic methods and exercises", "")
+ 	},
+	{
 		topic: new TripleTopic("Lecture 10: GUIs and MVC", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip", "examples/CS201_Lecture10_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
 		lab: new NumberedLabGradle(10, "Drag and Drop GUI")
 	},
+	{
+ 		topic: new Topic("Lecture 10: GUIs and MVC..Continuation", "")
+ 	},
 	{
  		topic: new DoubleTopic("Lecture 13: Analysis of Algorithms", "lectures/lecture13.html", "Lecture 14: Big-O", "lectures/lecture14.html"),
  		reading: "5.1&ndash;5.3",
@@ -125,17 +131,19 @@ courseInfo.classPeriods = [
  		reading: "6.7-6.8",
  		lab: new NumberedLabGradle(20, "Word Count")
  	},
-	{
-		topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
- 		reading: "7.1, 7.3",
- 		lab: new NumberedLabGradle(21, "Recursion")
- 	},
+	
 	{
  		topic: new Topic("Exam 3 Review", "")
  	},
 	{
  		topic: new Topic("** Exam 3", "")
  	},
+	
+	//{
+		//topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
+ 		//reading: "7.1, 7.3",
+ 		//lab: new NumberedLabGradle(21, "Recursion")
+ 	//},
  	// {
  		// topic: new Topic("Lecture 22: Proof by Induction", "lectures/lecture22.html"),
  		// reading: "7.2",
