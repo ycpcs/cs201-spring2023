@@ -96,11 +96,11 @@ courseInfo.classPeriods = [
 //		reading: "5.4&ndash;5.8",
 //		lab: new NumberedLabNoFile(13, "Big-O")
 //	},
- 	{
+ 	/*{
  		topic: new DoubleTopic("Lecture 15: Collections, Iterators", "lectures/lecture15.html", "CS201_Lecture15_Gradle.zip","examples/CS201_Lecture15_Gradle.zip"),
  		reading: "6.1-6.3",
  		lab: new NumberedLabGradle(15, "Iterators, Interleaving")
- 	},
+ 	},*/
  	{
  		topic: new DoubleTopic("Lecture 16: Generic Algorithms", "lectures/lecture16.html", "CS201_Lecture16_Gradle.zip","examples/CS201_Lecture16_Gradle.zip"),
  		reading: "6.4",
