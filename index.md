@@ -27,6 +27,10 @@ Welcome to the website for CS 201, Fundamentals of Computer Science II, at York 
 ## News
 * **Jan 26** &mdash; Welcome back!
 * **Mar 14** &mdash; **Exam 1**
+* **Apr 18** &mdash; **Exam 2**
+* **May 04** &mdash; **Exam 3**
+* **May 09** &mdash; **Final Exam section 102 @ 10:15 am**
+* **May 09** &mdash; **Final Exam section 103 @ 12:45 pm**
 
 
 
