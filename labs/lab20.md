@@ -5,7 +5,7 @@ title: "Lab 20: Word Count"
 
 ## Getting Started
 
-Download [CS201\_Lab20\_Gradle.zip](CS201_Lab20_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
+Download [CS201\_Lab20\_Gradle.zip](CS201_Lab20_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2023** directory. Import it into your **CS201-Spring2023** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
